@@ -10,7 +10,9 @@
     "grunt-contrib-jshint": "*",
     "grunt-contrib-requirejs": "*",
     "grunt-contrib-uglify": "*",
-    "grunt-strip": "*"
+    "grunt-strip": "*",
+    "mongojs": "^2.4.0",
+    "node-mysql": "^0.4.2"
   },
   "dependencies": {
     "mysql2": "^1.1.2",
