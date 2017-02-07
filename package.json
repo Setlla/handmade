@@ -1,7 +1,7 @@
 {
   "name": "handmade",
   "version": "0.1.0",
-  "description": "The handmade app",
+  "description": "The handmade api",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-clean": "*",
@@ -11,6 +11,8 @@
     "grunt-contrib-requirejs": "*",
     "grunt-contrib-uglify": "*",
     "grunt-strip": "*",
+    "grunt-contrib-watch": "*",
+    "grunt-contrib-qunit": "*",
     "mongojs": "^2.4.0",
     "node-mysql": "^0.4.2"
   },
